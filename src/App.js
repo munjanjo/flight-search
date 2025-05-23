@@ -123,7 +123,6 @@ function App() {
         </div>
       </div>
 
-      {/* Flight Results Table */}
       {flights.length > 0 && (
         <table className="flight-table">
           <thead>
